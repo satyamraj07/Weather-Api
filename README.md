@@ -107,6 +107,7 @@ Weather: clear sky
 Humidity: 40%
 Wind Speed: 3.6 m/s
 ```
+<img width="1581" height="607" alt="ECEAACB3-9488-4B25-943A-4615696B605B" src="https://github.com/user-attachments/assets/7fbc3ea7-3a9e-4a37-aa6b-a7f573d2bcad" />
 
 ---
 
